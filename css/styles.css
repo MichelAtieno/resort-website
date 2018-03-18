@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-size: cover;
+  color:#f7eeea;
+  font-size: 20px;
+
+
+}
+.mishqa {
+  font-style: italic;
+  color: #f7eeea;
+}
+h1 {
+  color: #f7eeea;
+  text-decoration: underline;
+}
+.intro {
+  text-align: center;
+  font-size: 25px;
+  font-family: fantasy;
+  font-style: oblique;
+  font-weight: bold;
+}
+a {
+  color: #f7eeea;
+}
+a:hover {
+  color: black;
